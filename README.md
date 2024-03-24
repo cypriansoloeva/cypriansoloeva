@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cypriansoloeva
 - 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning SQL & python
+- 💞️ I’m looking to collaborate on SQL & python projects
 - 📫 How to reach me via chat
 
 <!---
